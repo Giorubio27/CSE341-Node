@@ -1,0 +1,26 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "A simple Node.js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "git-update": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giorubio27/CSE341-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Giorubio27/CSE341-Node/issues"
+  },
+  "homepage": "https://github.com/Giorubio27/CSE341-Node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
