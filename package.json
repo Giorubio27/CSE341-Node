@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/Giorubio27/CSE341-Node#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongodb": "^7.2.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
